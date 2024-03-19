@@ -28,6 +28,6 @@ public class Lab02_01 {
         System.out.println("** 주소 ==> " + address);
         System.out.println("** 배송비 ==> " + weight*5 + "원");
 
-
+        s.close();
     }
 }
